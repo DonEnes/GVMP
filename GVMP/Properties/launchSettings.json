@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GVMP": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Administrator\\Desktop\\Vscript\\server.exe",
+      "workingDirectory": "C:\\Users\\Administrator\\Desktop\\Vscript",
+      "nativeDebugging": true
+    }
+  }
+}
